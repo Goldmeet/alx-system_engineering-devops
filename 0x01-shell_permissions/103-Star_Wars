@@ -1,0 +1,3 @@
+ #!/bin/bash
+ mplayer StarWars_IV_ep.mp4
+ 
