@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo -l guillaume chown betty hello
