@@ -1,4 +1,4 @@
 #!/bin/bash
-mplayer StarWars_IV_ep_video.mp4
+telnet towel.blinkenlights.nl
 
  
