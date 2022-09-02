@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -Ca . ../*[[:digitalph:]]
+ls -Xamp
+
